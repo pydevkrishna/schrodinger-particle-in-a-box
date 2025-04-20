@@ -41,3 +41,30 @@ In this project, we solve the equation **numerically** using the **finite differ
    ```bash
    git clone https://github.com/your-username/schrodinger-particle-in-a-box.git
    cd schrodinger-particle-in-a-box
+
+2. Install dependencies:
+   ```bash
+   pip install numpy scipy matplotlib
+
+3. Run the Script:
+   ```bash
+   python particle_in_box.py
+
+<br>
+📈 Output
+You’ll see a plot showing the first few normalized wavefunctions (ψn(x)) inside the box, with corresponding quantized energy levels:
+Each wavefunction has n−1 nodes and satisfies boundary conditions: 
+ ψ(0)=ψ(L)=0
+<br/>
+🧠 Learn More
+This is a great starting point if you're:
+
+Learning quantum mechanics
+
+Practicing numerical methods
+
+Exploring scientific computing and visualization
+
+<br/>
+📄 License
+This project is licensed under the MIT License. Feel free to use, modify, and share!
