@@ -7,6 +7,7 @@ This project solves the **time-independent Schrödinger equation (TISE)** for a 
 ## 🧪 Physics Background
 
 The potential V(x) is defined as:
+
 ![Image](https://github.com/user-attachments/assets/78d8307c-fa7d-423b-bc3a-cc453632f3da)
 
 A particle trapped inside a 1D box with infinitely high walls obeys the TISE:
