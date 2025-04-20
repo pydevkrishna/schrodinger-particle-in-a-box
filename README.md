@@ -13,9 +13,8 @@ A particle trapped inside a 1D box with infinitely high walls obeys the TISE:
 For a box from \( x=0 \) to \(x=L \), the analytical solutions are:
 
 - **Wavefunctions:**  
-  \[
-  \psi_n(x) = \sqrt{\frac{2}{L}} \sin\left( \frac{n \pi x}{L} \right)
-  \]
+![Image](https://github.com/user-attachments/assets/b4e2a687-9db0-48b7-8721-0d2fb9d6149e)
+
 - **Energy Levels:**  
   \[
   E_n = \frac{n^2 \pi^2 \hbar^2}{2mL^2}
