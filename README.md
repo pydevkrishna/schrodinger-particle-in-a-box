@@ -6,6 +6,9 @@ This project solves the **time-independent Schrödinger equation (TISE)** for a 
 
 ## 🧪 Physics Background
 
+The potential V(x) is defined as:
+
+
 A particle trapped inside a 1D box with infinitely high walls obeys the TISE:
 
 ![Image](https://github.com/user-attachments/assets/5179fe26-7466-4b2d-9d3c-61f28b871777)
@@ -13,12 +16,11 @@ A particle trapped inside a 1D box with infinitely high walls obeys the TISE:
 For a box from \( x=0 \) to \(x=L \), the analytical solutions are:
 
 - **Wavefunctions:**  
-![Image](https://github.com/user-attachments/assets/b4e2a687-9db0-48b7-8721-0d2fb9d6149e)
+![Image](https://github.com/user-attachments/assets/4aa617d6-eeeb-464b-98e4-d34681e2f848)
+
 
 - **Energy Levels:**  
-  \[
-  E_n = \frac{n^2 \pi^2 \hbar^2}{2mL^2}
-  \]
+ ![Image](https://github.com/user-attachments/assets/9288e933-8f4a-4aae-b30a-1a62766124ca)
 
 In this project, we solve the equation **numerically** using the **finite difference method**.
 
