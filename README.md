@@ -51,20 +51,23 @@ In this project, we solve the equation **numerically** using the **finite differ
    python particle_in_box.py
 
 <br>
-📈 Output
+
+## 📈 Output
+
 You’ll see a plot showing the first few normalized wavefunctions (ψn(x)) inside the box, with corresponding quantized energy levels:
 Each wavefunction has n−1 nodes and satisfies boundary conditions: 
  ψ(0)=ψ(L)=0
 <br/>
-🧠 Learn More
+## 🧠 Learn More
 This is a great starting point if you're:
 
-Learning quantum mechanics
+1. Learning quantum mechanics
 
-Practicing numerical methods
+2. Practicing numerical methods
 
-Exploring scientific computing and visualization
+3. Exploring scientific computing and visualization
 
 <br/>
-📄 License
+
+## 📄 License
 This project is licensed under the MIT License. Feel free to use, modify, and share!
