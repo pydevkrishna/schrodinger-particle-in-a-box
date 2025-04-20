@@ -8,11 +8,9 @@ This project solves the **time-independent Schrödinger equation (TISE)** for a 
 
 A particle trapped inside a 1D box with infinitely high walls obeys the TISE:
 
-\[
-- \frac{\hbar^2}{2m} \frac{d^2 \psi(x)}{dx^2} = E \psi(x)
-\]
+![Image](https://github.com/user-attachments/assets/5179fe26-7466-4b2d-9d3c-61f28b871777)
 
-For a box from \( x = 0 \) to \( x = L \), the analytical solutions are:
+For a box from \( x=0 \) to \(x=L \), the analytical solutions are:
 
 - **Wavefunctions:**  
   \[
