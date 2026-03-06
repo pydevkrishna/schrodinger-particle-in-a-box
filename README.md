@@ -40,7 +40,7 @@ In this project, we solve the equation **numerically** using the **finite differ
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/schrodinger-particle-in-a-box.git
+   git clone https://github.com/pydevkrishna/schrodinger-particle-in-a-box.git
    cd schrodinger-particle-in-a-box
 
 2. Install dependencies:
